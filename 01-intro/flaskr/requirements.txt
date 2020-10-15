@@ -1,0 +1,4 @@
+flask
+black
+flake8
+flask_cors
